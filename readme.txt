@@ -6,11 +6,9 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A starter theme called Min Theme based on the underscores started theme
-
 == Description ==
 
-Hi. I'm a starter theme called Min Theme, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.
+A minimal theme for WordPress, clean and simple.
 
 == Installation ==
 
